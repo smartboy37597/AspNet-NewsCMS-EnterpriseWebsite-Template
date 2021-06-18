@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\final_project\semester_final\semester_final\bin\semester_final.dll
+C:\Users\user\Desktop\final_project\semester_final\semester_final\bin\semester_final.pdb
+C:\Users\user\Desktop\final_project\semester_final\semester_final\obj\Debug\semester_final.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\final_project\semester_final\semester_final\obj\Debug\semester_final.dll
+C:\Users\user\Desktop\final_project\semester_final\semester_final\obj\Debug\semester_final.pdb
